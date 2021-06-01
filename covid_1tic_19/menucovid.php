@@ -21,7 +21,7 @@
   </div>
 
   <div class="card-body">
-    <h5 class="text-center" class="card-title">PASIEN COVID 19</h5>
+    <h5 class="text-center" class="card-title">PASIEN SUDAH SEMBUH COVID</h5>
     <table class="table table-link table-hover table-bordered">
     <?php include "koneksibaru.php"; ?>
     
