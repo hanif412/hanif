@@ -16,7 +16,7 @@
 <div class="card">
   <div class="card-header">
   
-    <h5 class="text-center"> COVID </h5>
+    <h5 class="text-center"> COVID 19</h5>
     
   </div>
 
